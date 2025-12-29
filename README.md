@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Chetan Padhye 👋
 
-<!--
-**chetanpadhye/chetanpadhye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior technologist with **20+ years of experience** across finance systems, ITSM, enterprise platforms, and web applications.  
+Currently working with **BMC Helix**, focusing on **system architecture, product design, and AI-assisted solutions**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Interests
+- Architecture & system design  
+- Product thinking and technical strategy  
+- AI / LLM use in real-world engineering  
+- Developer productivity & automation  
+
+---
+
+### 🤝 Open to
+- Collaboration on architecture or platform ideas  
+- AI / LLM experiments and tooling  
+- Technical discussions & knowledge exchange  
+
+---
+
+### ⚡ Fun facts
+- Enjoy simplifying complex systems  
+- Learn best by teaching and explaining  
+- Working on prompt engineering demos & talks  
+
+---
+
+📫 Feel free to explore my repos or reach out.
